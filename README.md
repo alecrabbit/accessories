@@ -1,3 +1,8 @@
+# Abandoned!
+project is moved to [alecrabbit/php-accessories](https://github.com/alecrabbit/php-accessories)
+
+will be deleted soon
+
 # PHP accessories
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.2-8FA0BF.svg)](https://php.net/)
